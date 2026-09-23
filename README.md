@@ -62,8 +62,8 @@
 <img width="935" height="587" alt="image" src="https://github.com/user-attachments/assets/85da9f28-a1d1-4a0c-bf0e-e013e24e652b" />
 
 
-### Name: SANJAY SRISANTH V
-### Register Number: 212225040375
+### Name: ABDUL RAHMAN A R
+### Register Number: 212225040008
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
